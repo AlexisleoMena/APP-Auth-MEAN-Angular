@@ -1,0 +1,21 @@
+.header-container {
+  display: flex;
+  align-items: baseline;
+  padding: .5em 2em;
+}
+.content-container {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-btn {
+  padding: .5em 1em;
+  background-color: #a64bf4;
+  border-radius: 15px;
+  color: beige;
+}
+
+.login-btn:hover {
+  background-color: #a95deb;
+}
