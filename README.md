@@ -18,22 +18,17 @@ __Panel de Control:__
 ## Cómo Iniciar la Aplicación
 Sigue estos pasos para iniciar la aplicación en tu entorno local:
 
-1. Clona este repositorio en tu máquina local:
-```bash
-  git clone https://github.com/AlexisleoMena/APP-Auth-MEAN-Angular.git
-  cd auth-app
-```
-
-2. Instala las dependencias de la aplicación utilizando npm:
+1. Instala las dependencias de la aplicación utilizando npm:
 ```bash
   npm install
 ```
-3. Inicia la aplicación en modo de desarrollo:
+
+2. Inicia la aplicación en modo de desarrollo:
 ```bash
   npm start
 ```
 
-4. Abre tu navegador y visita http://localhost:4200 para acceder a la aplicación.
+3. Abre tu navegador y visita http://localhost:4200 para acceder a la aplicación.
 
 ## Cómo Crear una Imagen y Ejecutar el Contenedor
 Si deseas desplegar la aplicación utilizando Docker, aquí tienes los pasos necesarios:
