@@ -1,6 +1,6 @@
 # AuthApp
 
-Esta es una aplicación sencilla de inicio de sesión construida con Angular 16 y que consume recursos de una aplicación backend creada con [Nest](https://github.com/AlexisleoMena/API-Auth-MEAN-Nest). La aplicación utiliza Docker con Nginx como servidor web y también integra la autenticación JWT para proporcionar una experiencia segura.
+Esta es una aplicación sencilla de inicio de sesión construida con Angular 16 y que consume recursos de una [aplicación backend](https://github.com/AlexisleoMena/API-Auth-MEAN-Nest) creada con Nest. La aplicación utiliza Docker con Nginx como servidor web y también integra la autenticación JWT para proporcionar una experiencia segura.
 
 ## Capturas de Pantalla
 
